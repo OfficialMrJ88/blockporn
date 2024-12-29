@@ -1,4 +1,4 @@
-#This file only contains the main domain name and can be used for shielding methods such as dns. When shielding, the main domain name and all subdomain names should be blocked.
+This file only contains the main domain name and can be used for shielding methods such as dns. When shielding, the main domain name and all subdomain names should be blocked.
 007milf.com
 00webcams.com
 02weqj32.com
@@ -1202,7 +1202,7 @@ apornmovie.com
 apornotube.net
 apornstories.com
 aporntv.com
-apornvideo.com
+wapornvideo.com
 appyq.com
 apyarstorybooks.blogspot.com
 aquariumgays.com
